@@ -1,0 +1,27 @@
+h2.flashy {
+  color: red;
+  font-style: italic;
+
+}
+
+p.best {
+  font-family:sans-serif;
+  font-weight: 500;
+  background-color: Red;
+
+}
+
+h1 {
+  text-align: center;
+
+}
+
+h2 {
+  text-align: center;
+
+}
+
+p.center {
+  text-align: center;
+  
+}
