@@ -5,6 +5,20 @@ h2.flashy {
 
 }
 
+li.flashy {
+  color: red;
+  font-style: italic;
+  border: 2px dotted
+
+}
+
+p.flashy {
+  color: red;
+  font-style: italic;
+  border: 2px dotted
+
+}
+
 p.best {
   font-family:sans-serif;
   font-weight: 500;
